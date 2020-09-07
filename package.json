@@ -1,0 +1,35 @@
+{
+  "name": "@pohodnik/stylelint-config",
+  "version": "1.0.0",
+  "description": "Stylesheets config for pohodnik developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pohodnik/stylelint-config.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint",
+    "config",
+    "stylesheets",
+    "css",
+    "less",
+    "pohodnik",
+    "pohodnik58"
+  ],
+  "author": "Pohodnik58 <pohodnik58@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pohodnik/stylelint-config/issues"
+  },
+  "homepage": "https://github.com/pohodnik/stylelint-config#readme",
+  "dependencies": {
+    "stylelint": "^13.7.0",
+    "stylelint-config-airbnb": "^0.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.18.0"
+  }
+}
