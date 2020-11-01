@@ -1,6 +1,6 @@
 {
   "name": "@pohodnik/stylelint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Stylesheets config for pohodnik developers",
   "main": "index.js",
   "scripts": {
