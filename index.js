@@ -14,6 +14,6 @@ module.exports = {
         }],
         "indentation": 4,
         "number-leading-zero": null,
-        "unit-whitelist": ["em", "rem", "px", "%"]
+        "unit-whitelist": ["em", "rem", "px", "%", "vh", "vw"]
     }
 }
